@@ -31,8 +31,12 @@ li {
 }
 #ul_1 {
   list-style: none;
+  width: 14%;
+  height: 46%;
   padding: 0;
   margin: 0;
+
+  background-color: white;
 }
 #ul_1 li {
   padding: 10px 0;
@@ -108,7 +112,7 @@ a {
   overflow: auto;
   margin: auto;
   position: absolute;
-  top: 0; left: 0; bottom: 0; right: 0;
+  bottom: 0; right: 7%;
 }
 h1 {
   margin-right: auto;
