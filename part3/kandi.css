@@ -33,12 +33,14 @@ li {
   list-style: none;
   padding: 12px;
   margin: 0;
-
+  border: 14px solid #f56664;
   background-color: white;
+  border-radius: 6px;
 }
 #ul_1 li {
   padding: 10px 0;
 }
+
 
 a {
   text-decoration: none;
@@ -110,7 +112,7 @@ a {
   overflow: auto;
   margin: auto;
   position: absolute;
-  bottom: 0; right: 6%;
+  bottom: 0; right: 5%;
   /* left: 0; */
 }
 h1 {
