@@ -46,8 +46,8 @@ a {
 }
 
 .wrapper {
-  width: 600px;
-  height: 360px;
+  width: 1250px;
+  height: 550px;
   position: absolute;
   top: 5px;
   left: 5px;
@@ -55,8 +55,8 @@ a {
 
 #menu {
   position: absolute;
-  width: 600px;
-  height: 360px;
+  width: 1250px;
+  height: 550px;
   border: 1px solid black;
   z-index: 2;
   text-align: center;
