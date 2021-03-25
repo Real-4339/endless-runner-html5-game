@@ -13,7 +13,6 @@ body {
 }
 
 canvas {
-  position: absolute;
   top: 0;
   left: 0;
   border: 3px solid black;
@@ -48,9 +47,9 @@ a {
 .wrapper {
   width: 1250px;
   height: 550px;
-  position: absolute;
+  margin-right: auto;
+  margin-left: auto;
   top: 5px;
-  left: 5px;
 }
 
 #menu {
@@ -111,10 +110,15 @@ a {
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
 }
-#main h1 {
+h1 {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+/* #main h1 {
   color: white;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-}
+} */
 
 .button {
   display: block;
