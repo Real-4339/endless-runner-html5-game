@@ -57,7 +57,7 @@ a {
 #menu.main {
   background-image: url('imgs/Menu_2.png');
 }
-#menu.credits {
+#menu.settings {
   background-image: url('imgs/floor_1.png');
 }
 
@@ -130,14 +130,14 @@ a {
   background-image:         linear-gradient(to bottom, #B30D5D 0%, #FB1886 100%);
 }
 
-#credits {
+#settings {
   display: none;
   line-height: 30px;
   margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
 }
-#credits li {
+#settings li {
   padding: 5px 0;
 }
 

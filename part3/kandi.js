@@ -854,15 +854,15 @@ function gameOver() {
 /**
  * Click handlers for the different menu screens
  */
-$('.credits').click(function() {
+$('.settings').click(function() {
   $('#main').hide();
-  $('#credits').show();
-  $('#menu').addClass('credits');
+  $('#settings').show();
+  $('#menu').addClass('settings');
 });
 $('.back').click(function() {
-  $('#credits').hide();
+  $('#settings').hide();
   $('#main').show();
-  $('#menu').removeClass('credits');
+  $('#menu').removeClass('settings');
 });
 $('.sound').click(function() {
   var $this = $(this);
