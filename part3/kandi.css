@@ -55,10 +55,10 @@ a {
   background-color: grey;
 }
 #menu.main {
-  background-image: url('imgs/menu-bg.png');
+  background-image: url('imgs/Menu_2.png');
 }
 #menu.credits {
-  background-image: url('imgs/credits-bg.png');
+  background-image: url('imgs/floor_1.png');
 }
 
 #progress {
