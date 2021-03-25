@@ -31,9 +31,7 @@ li {
 }
 #ul_1 {
   list-style: none;
-  width: 14%;
-  height: 46%;
-  padding: 0;
+  padding: 12px;
   margin: 0;
 
   background-color: white;
@@ -112,7 +110,8 @@ a {
   overflow: auto;
   margin: auto;
   position: absolute;
-  bottom: 0; right: 7%;
+  bottom: 0; right: 6%;
+  /* left: 0; */
 }
 h1 {
   margin-right: auto;
